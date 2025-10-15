@@ -4,13 +4,13 @@ rng(0)
 
 group = 'BLKG'; % 'MCG', 'BLKG'
 
-N_frame = 100;         % the number of test frames 100000 50000
+N_frame = 10;         % the number of test frames 100000 50000
 SNR = 6 : 2 : 16;
 
 Nr = 8;             % the number of receive antennas
 
 W = [1.6 1.6];
-NN = [4 5];
+NN = [4 4];
 GG = [2 2];
 
 W1 = W(1);
