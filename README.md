@@ -11,5 +11,4 @@ Official MATLAB implementation for ["Fluid Antenna Index Modulation for MIMO Sys
   volume={},
   number={},
   pages={1-1},
-  keywords={Detectors;Correlation;MIMO;Indexes;Transmitting antennas;Antenna arrays;Message passing;Complexity theory;Simulation;Robustness;Index modulation;fluid antenna;MIMO;spatial correlation;average bit error probability;approximate message passing},
   doi={10.1109/TCOMM.2025.3622963}}
