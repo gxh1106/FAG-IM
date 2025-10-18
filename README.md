@@ -1,20 +1,15 @@
 # FAG-IM
 Official MATLAB implementation for ["Fluid Antenna Index Modulation for MIMO Systems: Robust Transmission and Low-Complexity Detection"](https://ieeexplore.ieee.org/document/11206363)
 
+## Citation
+```bibtex
 @ARTICLE{11206363,
-
   author={Guo, Xinghao and Xu, Yin and He, Dazhi and Zhang, Cixiao and Hong, Hanjiang and Wong, Kai-Kit and Zhang, Wenjun and Wu, Yiyan},
-  
   journal={IEEE Transactions on Communications}, 
-  
   title={Fluid Antenna Index Modulation for MIMO Systems: Robust Transmission and Low-Complexity Detection}, 
-  
   year={2025},
-  
   volume={},
-  
   number={},
-  
   pages={1-1},
-  
+  keywords={Detectors;Correlation;MIMO;Indexes;Transmitting antennas;Antenna arrays;Message passing;Complexity theory;Simulation;Robustness;Index modulation;fluid antenna;MIMO;spatial correlation;average bit error probability;approximate message passing},
   doi={10.1109/TCOMM.2025.3622963}}
